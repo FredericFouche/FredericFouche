@@ -1,4 +1,4 @@
-# Welcome to my Github profile
+# Welcome to my Github profile 👋
 
 👋 I'm Frédéric, a student in Web Development at O'clock School. I'm passionate about web development, computer science and electronics. From a young age, I was assembling computers, always driven by a desire to understand how things work and to see how they are made. This curiosity has been a significant motivator in my learning journey.
 
