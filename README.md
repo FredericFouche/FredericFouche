@@ -1,10 +1,12 @@
 # Welcome to my Github profile
 
-👋 I'm Frédéric, a student in Web Development at O'clock School. I'm passionate about web development 💻, computer science and electronics. From a young age, I was assembling computers, always driven by a desire to understand how things work and to see how they are made. This curiosity 🤔 has been a significant motivator in my learning journey.
+👋 I'm Frédéric, a student in Web Development at O'clock School. I'm passionate about web development, computer science and electronics. From a young age, I was assembling computers, always driven by a desire to understand how things work and to see how they are made. This curiosity has been a significant motivator in my learning journey.
 
 🌱 I'm currently learning JavaScript, Node.js, Express, Jest, and PostgreSQL in school. On the side, I'm diving into Vue.js, TypeScript, NestJS, and Redis to improve my skills and to be more versatile.
 
 🔨 I am in the process of developing my portfolio website using Vue.js and Tailwind CSS. For the backend, I'm utilizing Node.js, Express, and PostgreSQL, structured around a RESTful architecture. The entire setup is automated for deployment and testing through GitHub Actions and Docker, and it's hosted on my Virtual Private Server (VPS).
+
+💡 I'm interested in API design, security, and architecture, and I'm always looking for new challenges to improve my skills. DevOps  and CI/CD  are also areas I'm interested in, and I'm always looking for ways to improve my workflow and automate repetitive tasks.
 
 🔍 I'm looking for an internship in web development to improve my skills and learn new ones. Post-studies, I'm aiming for a job as a web developer 👨‍💻.
 
@@ -31,10 +33,11 @@
 
 ### Database
 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)<br>
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools
@@ -50,6 +53,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-FF5733?style=for-the-badge&logoColor=white)
 
 ## Contact me
 
