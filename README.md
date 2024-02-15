@@ -1,12 +1,12 @@
 # Welcome to my Github profile
 
-I'm Frédéric, a student in Web Development at O'clock School. I'm passionate about web development, computer science and electronics. From a young age, I was assembling computers, always driven by a desire to understand how things work and to see how they are made. This curiosity has been a significant motivator in my learning journey.
+👋 I'm Frédéric, a student in Web Development at O'clock School. I'm passionate about web development 💻, computer science and electronics. From a young age, I was assembling computers, always driven by a desire to understand how things work and to see how they are made. This curiosity 🤔 has been a significant motivator in my learning journey.
 
-I'm currently learning JavaScript, Node.js, Express, Jest and PostgreSQL in school. I'm also learning Vue.js, TypeScript, NestJS and Redis on my own to improve my skills and to be more versatile.
+🌱 I'm currently learning JavaScript, Node.js, Express, Jest, and PostgreSQL in school. On the side, I'm diving into Vue.js, TypeScript, NestJS, and Redis to improve my skills and to be more versatile.
 
-I am in the process of developing my portfolio website using Vue.js and Tailwind CSS. For the backend, I'm utilizing Node.js, Express, and PostgreSQL, structured around a RESTful architecture. The entire setup is automated for deployment and testing through GitHub Actions and Docker, and it's hosted on my Virtual Private Server (VPS).
+🔨 I am in the process of developing my portfolio website using Vue.js and Tailwind CSS. For the backend, I'm utilizing Node.js, Express, and PostgreSQL, structured around a RESTful architecture. The entire setup is automated for deployment and testing through GitHub Actions and Docker, and it's hosted on my Virtual Private Server (VPS).
 
-I'm looking for an internship in web development to improve my skills and learn new ones. I'm also looking for a job as a web developer after my studies.
+🔍 I'm looking for an internship in web development to improve my skills and learn new ones. Post-studies, I'm aiming for a job as a web developer 👨‍💻.
 
 ## Technologies
 
@@ -53,7 +53,7 @@ I'm looking for an internship in web development to improve my skills and learn 
 
 ## Contact me
 
-You can contact me via LinkedIn. I'm open to any opportunity, so don't hesitate to contact me.
+You can contact me via LinkedIn. I'm open to any opportunity, so don't hesitate 👋.
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-fouch%C3%A9/)
 
