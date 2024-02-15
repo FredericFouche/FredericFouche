@@ -2,7 +2,7 @@
 
 I'm Frédéric, a student in Web Development at O'clock School. I'm passionate about web development, computer science and electronics. From a young age, I was assembling computers, always driven by a desire to understand how things work and to see how they are made. This curiosity has been a significant motivator in my learning journey.
 
-I'm currently learning JavaScript, Node.js, Express and PostgreSQL in school. I'm also learning Vue.js, TypeScript and NestJS on my own.
+I'm currently learning JavaScript, Node.js, Express, Jest and PostgreSQL in school. I'm also learning Vue.js, TypeScript, NestJS and Redis on my own to improve my skills and to be more versatile.
 
 I am in the process of developing my portfolio website using Vue.js and Tailwind CSS. For the backend, I'm utilizing Node.js, Express, and PostgreSQL, structured around a RESTful architecture. The entire setup is automated for deployment and testing through GitHub Actions and Docker, and it's hosted on my Virtual Private Server (VPS).
 
@@ -26,6 +26,7 @@ I'm looking for an internship in web development to improve my skills and learn 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Database
 
@@ -33,6 +34,7 @@ I'm looking for an internship in web development to improve my skills and learn 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools
 
