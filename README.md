@@ -3,14 +3,8 @@
 
 # Welcome to my Github profile
 
-
-Hi, I’m Frédéric, a fullstack web developer with a passion for web development, computer science, and electronics. From a young age, I was assembling computers, always driven by a desire to understand how things work and to see how they are made. This curiosity has been a significant motivator in my learning journey.
-
-My expertise includes JavaScript, Node.js, Express, Vue.js, TypeScript, Jest, and PostgreSQL. Additionally, I’m expanding my skills in DevOps by working with Docker, Kubernetes, and Python to become even more versatile.
-
-I’m currently developing my portfolio website using Vue.js and Tailwind CSS. For the backend, I’m utilizing Node.js, Express, and PostgreSQL, structured around a RESTful architecture. The entire setup is automated for deployment and testing through GitHub Actions and Docker, and it’s hosted on my Virtual Private Server (VPS).
-
-I’m deeply interested in API design, security, and architecture. I’m always eager to take on new challenges to enhance my skills. DevOps and CI/CD are also areas I’m focused on, continually improving my workflow and automating repetitive tasks.
+Hi, I’m Frédéric, a fullstack web developer with a passion for web development, computer science, and electronics. From a young age, I was assembling computers, always driven by a desire to understand how things work and to see how they are made. This curiosity has been a significant motivation in my learning journey.
+I’m interested in API design, security, and architecture. Always eager to take on new challenges to enhance my skills.
 
 ## Technologies
 
