@@ -47,10 +47,3 @@ You can contact me via LinkedIn. I'm open to any opportunity, so don't hesitate 
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-fouch%C3%A9/)
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-Fredericfouche.fr-blue?style=for-the-badge)](https://fredericfouche.fr)
-
-
-## My GitHub stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fredericfouche&show_icons=true&theme=github_dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredericfouche&layout=pie&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
