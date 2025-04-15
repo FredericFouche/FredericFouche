@@ -7,7 +7,7 @@ Hi, I’m Frédéric, a fullstack web developer with a passion for web developme
 I’m interested in API design, security, and architecture. Always eager to take on new challenges to enhance my skills.
 
 Founder and maintainer of buy-eu.org.<br>
-[![Buy-EU](https://img.shields.io/badge/Buy-EU-003399?style=for-the-badge&logo=eu&logoColor=gold)](https://buy-eu.org)
+[![Buy-EU](https://img.shields.io/badge/Buy_EU-003399?style=for-the-badge&logo=eu&logoColor=gold)](https://buy-eu.org)
 
 
 ## Technologies
