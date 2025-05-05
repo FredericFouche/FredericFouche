@@ -6,9 +6,12 @@
 Hi, I’m Frédéric, a fullstack web developer with a passion for web development, computer science, and electronics. From a young age, I was assembling computers, always driven by a desire to understand how things work and to see how they are made. This curiosity has been a significant motivation in my learning journey.
 I’m interested in API design, security, and architecture. Always eager to take on new challenges to enhance my skills.
 
-Founder and maintainer of buy-eu.org.<br>
-[![Buy-EU](https://img.shields.io/badge/Buy_EU-003399?style=for-the-badge&logo=eu&logoColor=gold)](https://buy-eu.org)
 
+See my portfolio :<br>
+[![frédéricfouche.fr](https://img.shields.io/badge/-fr%C3%A9d%C3%A9ricfouche.fr-FFFFFF?style=flat&logo=about-dot-me&logoColor=0066CC&labelColor=1E90FF&color=0066CC&fontFamily=Montserrat&borderRadius=4px&border=1px)](https://fredericfouche.fr)
+
+Founder and maintainer of buy-eu.org.<br>
+[![Buy EU](https://img.shields.io/badge/Buy–EU-FFFFFF?style=flat&logo=eu&logoColor=FFD700&labelColor=0052B4&color=FFD700&fontFamily=Montserrat&borderRadius=4px&border=1px)](https://buy-eu.org)
 
 ## Technologies
 
