@@ -49,8 +49,6 @@ Founder and maintainer of buy-eu.org.<br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![TDD](https://img.shields.io/badge/TDD-5E97D0?style=for-the-badge)
-![DDD](https://img.shields.io/badge/DDD-F39C12?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-8E44AD?style=for-the-badge)
 
 ## Contact me
 
