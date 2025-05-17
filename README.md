@@ -48,8 +48,6 @@ Founder and maintainer of buy-eu.org.<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-![TDD](https://img.shields.io/badge/TDD-5E97D0?style=for-the-badge)
-
 ## Contact me
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-fouch%C3%A9/)
